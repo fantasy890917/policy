@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/Policy.java
+END
+GlobalActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/GlobalActions.java
+END
+PhoneWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/PhoneWindow.java
+END
+EnableAccessibilityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/EnableAccessibilityController.java
+END
+IconUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/IconUtilities.java
+END
+ShortcutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/ShortcutManager.java
+END
+RecentApplicationsBackground.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/RecentApplicationsBackground.java
+END
+RecentApplicationsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/RecentApplicationsDialog.java
+END
+PhoneFallbackEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/PhoneFallbackEventHandler.java
+END
+PhoneLayoutInflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/PhoneLayoutInflater.java
+END
+PhoneWindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/package.html
+END

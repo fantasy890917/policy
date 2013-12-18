@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete
+END
+KeyguardViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardViewManager.java
+END
+KeyguardViewBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardViewBase.java
+END
+KeyguardUpdateMonitorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardUpdateMonitorCallback.java
+END
+SimUnlockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/SimUnlockScreen.java
+END
+KeyguardStatusViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardStatusViewManager.java
+END
+KeyguardWindowController.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardWindowController.java
+END
+AccountUnlockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/AccountUnlockScreen.java
+END
+FaceUnlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/FaceUnlock.java
+END
+KeyguardScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardScreen.java
+END
+LockPatternKeyguardView.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/LockPatternKeyguardView.java
+END
+PasswordUnlockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/PasswordUnlockScreen.java
+END
+KeyguardViewProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardViewProperties.java
+END
+KeyguardViewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardViewCallback.java
+END
+BiometricSensorUnlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/BiometricSensorUnlock.java
+END
+SimPukUnlockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/SimPukUnlockScreen.java
+END
+KeyguardUpdateMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardUpdateMonitor.java
+END
+KeyguardScreenCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardScreenCallback.java
+END
+LockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/LockScreen.java
+END
+PatternUnlockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/PatternUnlockScreen.java
+END
+LockPatternKeyguardViewProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/LockPatternKeyguardViewProperties.java
+END
+KeyguardViewMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/policy/src/com/android/internal/policy/impl/keyguard_obsolete/KeyguardViewMediator.java
+END
