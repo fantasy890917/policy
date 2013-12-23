@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power
+END
+Notifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/Notifier.java
+END
+ElectronBeam.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/ElectronBeam.java
+END
+DisplayPowerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/DisplayPowerState.java
+END
+IPreShutdown.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/IPreShutdown.aidl
+END
+ShutdownThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/ShutdownThread.java
+END
+SuspendBlocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/SuspendBlocker.java
+END
+WirelessChargerDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/WirelessChargerDetector.java
+END
+DisplayBlanker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/DisplayBlanker.java
+END
+DisplayPowerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/DisplayPowerController.java
+END
+PowerManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/PowerManagerService.java
+END
+RampAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/RampAnimator.java
+END
+DisplayPowerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/DisplayPowerRequest.java
+END
+ScreenOnBlocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/power/ScreenOnBlocker.java
+END

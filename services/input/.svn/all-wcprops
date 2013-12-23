@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input
+END
+InputManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputManager.h
+END
+InputListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputListener.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/Android.mk
+END
+InputDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputDispatcher.cpp
+END
+InputListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputListener.h
+END
+SpriteController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/SpriteController.cpp
+END
+InputDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputDispatcher.h
+END
+SpriteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/SpriteController.h
+END
+EventHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/EventHub.cpp
+END
+InputReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputReader.cpp
+END
+InputApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputApplication.cpp
+END
+PointerController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/PointerController.cpp
+END
+EventHub.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/EventHub.h
+END
+InputWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputWindow.cpp
+END
+InputReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputReader.h
+END
+InputApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputApplication.h
+END
+PointerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/PointerController.h
+END
+InputManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputManager.cpp
+END
+InputWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/input/InputWindow.h
+END

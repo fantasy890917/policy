@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server
+END
+ConnectivityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/ConnectivityServiceTest.java
+END
+AccessibilityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/AccessibilityManagerTest.java
+END
+MockAccessibilityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/MockAccessibilityService.java
+END
+AccessibilityManagerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/AccessibilityManagerServiceTest.java
+END
+BroadcastInterceptingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/BroadcastInterceptingContext.java
+END
+EntropyMixerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/EntropyMixerTest.java
+END
+NativeDaemonConnectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/NativeDaemonConnectorTest.java
+END
+NetworkPolicyManagerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/NetworkPolicyManagerServiceTest.java
+END
+MountServiceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/MountServiceTests.java
+END
+ThrottleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/ThrottleServiceTest.java
+END
+NetworkStatsServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/NetworkStatsServiceTest.java
+END
+CertBlacklisterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/CertBlacklisterTest.java
+END
+DropBoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/DropBoxTest.java
+END
+CountryDetectorServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/CountryDetectorServiceTest.java
+END

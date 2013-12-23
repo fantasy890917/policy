@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/location
+END
+ComprehensiveCountryDetectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/location/ComprehensiveCountryDetectorTest.java
+END
+LocationBasedCountryDetectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/location/LocationBasedCountryDetectorTest.java
+END

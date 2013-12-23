@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display
+END
+HeadlessDisplayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/HeadlessDisplayAdapter.java
+END
+OverlayDisplayWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/OverlayDisplayWindow.java
+END
+LogicalDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/LogicalDisplay.java
+END
+DisplayDeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/DisplayDeviceInfo.java
+END
+DisplayManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/DisplayManagerService.java
+END
+DisplayTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/DisplayTransactionListener.java
+END
+LocalDisplayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/LocalDisplayAdapter.java
+END
+DisplayDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/DisplayDevice.java
+END
+DisplayViewport.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/DisplayViewport.java
+END
+WifiDisplayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/WifiDisplayAdapter.java
+END
+DisplayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/DisplayAdapter.java
+END
+PersistentDataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/PersistentDataStore.java
+END
+OverlayDisplayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/OverlayDisplayAdapter.java
+END
+WifiDisplayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/display/WifiDisplayController.java
+END

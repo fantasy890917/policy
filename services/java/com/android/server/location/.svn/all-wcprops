@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location
+END
+LocationBlacklist.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/LocationBlacklist.java
+END
+LocationProviderInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/LocationProviderInterface.java
+END
+MockProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/MockProvider.java
+END
+ComprehensiveCountryDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/ComprehensiveCountryDetector.java
+END
+LocationBasedCountryDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/LocationBasedCountryDetector.java
+END
+LocationFudger.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/LocationFudger.java
+END
+LocationProviderProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/LocationProviderProxy.java
+END
+PassiveProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/PassiveProvider.java
+END
+GeofenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/GeofenceManager.java
+END
+GpsXtraDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/GpsXtraDownloader.java
+END
+CountryDetectorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/CountryDetectorBase.java
+END
+GeocoderProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/GeocoderProxy.java
+END
+GeofenceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/GeofenceState.java
+END
+GpsLocationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/location/GpsLocationProvider.java
+END

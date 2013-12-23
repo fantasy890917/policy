@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm
+END
+ScreenRotationAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/ScreenRotationAnimation.java
+END
+DisplayContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/DisplayContent.java
+END
+ViewServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/ViewServer.java
+END
+WindowAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/WindowAnimator.java
+END
+AppWindowAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/AppWindowAnimator.java
+END
+WindowStateAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/WindowStateAnimator.java
+END
+DimAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/DimAnimator.java
+END
+InputMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/InputMonitor.java
+END
+WindowState.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/WindowState.java
+END
+WindowToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/WindowToken.java
+END
+AppWindowToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/AppWindowToken.java
+END
+DragState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/DragState.java
+END
+FakeWindowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/FakeWindowImpl.java
+END
+DimSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/DimSurface.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/Session.java
+END
+MagnificationSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/MagnificationSpec.java
+END
+WindowManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/WindowManagerService.java
+END
+StartingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/StartingData.java
+END
+BlackFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/BlackFrame.java
+END
+StrictModeFlash.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/StrictModeFlash.java
+END
+KeyguardDisableHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/KeyguardDisableHandler.java
+END
+Watermark.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/wm/Watermark.java
+END

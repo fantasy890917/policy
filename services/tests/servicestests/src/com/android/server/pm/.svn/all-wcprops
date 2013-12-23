@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/pm
+END
+PackageVerificationStateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/pm/PackageVerificationStateTest.java
+END
+UserManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/pm/UserManagerTest.java
+END
+PackageManagerSettingsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/tests/servicestests/src/com/android/server/pm/PackageManagerSettingsTests.java
+END

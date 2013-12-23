@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/input
+END
+InputApplicationHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/input/InputApplicationHandle.java
+END
+InputWindowHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/input/InputWindowHandle.java
+END
+PersistentDataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/input/PersistentDataStore.java
+END
+InputManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/input/InputManagerService.java
+END

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am
+END
+AppWaitingForDebuggerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/AppWaitingForDebuggerDialog.java
+END
+ReceiverList.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ReceiverList.java
+END
+TaskAccessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/TaskAccessInfo.java
+END
+FactoryErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/FactoryErrorDialog.java
+END
+BroadcastRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/BroadcastRecord.java
+END
+TaskRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/TaskRecord.java
+END
+BackupRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/BackupRecord.java
+END
+PendingIntentRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/PendingIntentRecord.java
+END
+DeviceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/DeviceMonitor.java
+END
+ProcessList.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ProcessList.java
+END
+AppBindRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/AppBindRecord.java
+END
+EventLogTags.logtags
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/EventLogTags.logtags
+END
+CoreSettingsObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/CoreSettingsObserver.java
+END
+ActivityStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ActivityStack.java
+END
+StrictModeViolationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/StrictModeViolationDialog.java
+END
+ContentProviderRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ContentProviderRecord.java
+END
+LaunchWarningWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/LaunchWarningWindow.java
+END
+AppErrorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/AppErrorResult.java
+END
+ActivityResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ActivityResult.java
+END
+IntentBindRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/IntentBindRecord.java
+END
+ConnectionRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ConnectionRecord.java
+END
+ServiceRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ServiceRecord.java
+END
+TransferPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/TransferPipe.java
+END
+BaseErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/BaseErrorDialog.java
+END
+UsageStatsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/UsageStatsService.java
+END
+ContentProviderConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ContentProviderConnection.java
+END
+UserStartedState.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/UserStartedState.java
+END
+BroadcastQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/BroadcastQueue.java
+END
+CompatModeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/CompatModeDialog.java
+END
+ActivityManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ActivityManagerService.java
+END
+BroadcastFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/BroadcastFilter.java
+END
+UriPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/UriPermission.java
+END
+PendingThumbnailsRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/PendingThumbnailsRecord.java
+END
+AppErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/AppErrorDialog.java
+END
+AppNotRespondingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/AppNotRespondingDialog.java
+END
+BatteryStatsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/BatteryStatsService.java
+END
+ProcessRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ProcessRecord.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/package.html
+END
+ActiveServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ActiveServices.java
+END
+ThumbnailHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ThumbnailHolder.java
+END
+UriPermissionOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/UriPermissionOwner.java
+END
+CompatModePackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/CompatModePackages.java
+END
+ProviderMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ProviderMap.java
+END
+ActivityRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/am/ActivityRecord.java
+END

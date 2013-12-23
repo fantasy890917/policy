@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm
+END
+PackageVerificationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PackageVerificationState.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/Settings.java
+END
+PendingPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PendingPackage.java
+END
+PackageSignatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PackageSignatures.java
+END
+SharedUserSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/SharedUserSetting.java
+END
+PackageManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PackageManagerService.java
+END
+PackageVerificationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PackageVerificationResponse.java
+END
+GrantedPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/GrantedPermissions.java
+END
+PreferredIntentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PreferredIntentResolver.java
+END
+BasePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/BasePermission.java
+END
+PackageSettingBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PackageSettingBase.java
+END
+SELinuxMMAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/SELinuxMMAC.java
+END
+PackageSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PackageSetting.java
+END
+UserManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/UserManagerService.java
+END
+PreferredActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/PreferredActivity.java
+END
+Installer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/pm/Installer.java
+END

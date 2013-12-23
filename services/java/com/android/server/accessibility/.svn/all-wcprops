@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility
+END
+GestureUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility/GestureUtils.java
+END
+ScreenMagnifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility/ScreenMagnifier.java
+END
+AccessibilityManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility/AccessibilityManagerService.java
+END
+TouchExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility/TouchExplorer.java
+END
+EventStreamTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility/EventStreamTransformation.java
+END
+AccessibilityInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/com/android/server/accessibility/AccessibilityInputFilter.java
+END

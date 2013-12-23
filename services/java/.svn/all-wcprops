@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/mt6582m_ibd/!svn/ver/2839/platform/branches/A800/frameworks/base/services/java
+END
+pms_filter_method.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/pms_filter_method.txt
+END
+ams_filter_method.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/ams_filter_method.txt
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/Android.mk
+END
+wms_filter_method.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/wms_filter_method.txt
+END
+systemserver_filter_method.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/java/systemserver_filter_method.txt
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time
+END
+diag_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/diag_thread.h
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/utils.cpp
+END
+common_time_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_server.h
+END
+common_clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_clock.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/Android.mk
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/utils.h
+END
+common_time_server_packets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_server_packets.cpp
+END
+common_clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_clock.h
+END
+clock_recovery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/clock_recovery.cpp
+END
+common_time_server_packets.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_server_packets.h
+END
+common_time_config_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_config_service.cpp
+END
+clock_recovery.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/clock_recovery.h
+END
+common_time_config_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_config_service.h
+END
+common_clock_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_clock_service.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/main.cpp
+END
+common_time_server_api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_server_api.cpp
+END
+common_clock_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_clock_service.h
+END
+diag_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/diag_thread.cpp
+END
+common_time_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/mt6582m_ibd/!svn/ver/2794/platform/branches/A800/frameworks/base/services/common_time/common_time_server.cpp
+END
